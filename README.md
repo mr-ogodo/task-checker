@@ -1,2 +1,5 @@
 ﻿# task-checker
-Nodejs to do app.
+to do task managing webapp.
+nodejs
+express
+mongodb
